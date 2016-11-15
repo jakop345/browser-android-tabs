@@ -5,7 +5,7 @@
 - check out and install the [depot_tools package](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html#_setting_up).
 - create chromium dir and clone the repository to src folder:
 
-  `git clone https://github.com/brave/chromium.git src`
+  `git clone https://github.com/brave/brave-android-tabs.git src`
   
 ##Configure your build (You can only use a Linux build machine for Android builds)
 
